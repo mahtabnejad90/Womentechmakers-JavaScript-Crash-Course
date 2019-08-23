@@ -1,2 +1,2 @@
 # Womentechmakers-javascript-Crash-Course
-A repo to record &amp; push my learning/code in this repo.
+To record &amp; push my any code implemented in these workshops.
